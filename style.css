@@ -1,0 +1,38 @@
+html {
+    font-size: 35px;
+    background: lightblue;
+
+}
+
+.key {
+    border: .2rem solid black;
+    border-radius: .5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    width: 15rem;
+    text-align: center;
+    background:cyan;
+    transition: all 0.50s ease;
+
+
+
+
+
+}
+
+.sound {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    
+
+
+}
+
+.glow {
+  transform: scale(1.1);
+  border-color: purple;
+  box-shadow: 0 0 1rem purple; 
+
+}
+
